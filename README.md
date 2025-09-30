@@ -1,0 +1,1 @@
+Manipulando imagens em Python
