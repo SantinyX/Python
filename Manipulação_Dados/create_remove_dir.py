@@ -1,4 +1,6 @@
 # Criando um diretório e removendo-o em Python
+# mkdir() criando diretório
+# rmdir() removendo diretório
 import os  # Importando o módulo os para manipulação de diretórios
 
 try:  # Criando o diretório
